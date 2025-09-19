@@ -7,9 +7,9 @@
 
    <!-- Nav buttons stacked vertically -->
   <div style="display: flex; flex-direction: column; gap: 10px;">
-      <a href="/" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Home</a>
-      <a href="projects.md" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Projects</a>
-      <a href="images/Kevin_s_Resume.pdf" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;" target="_blank">Resume</a>
+   <a href="/" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Home</a>
+    <a href="projects.md" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Projects</a>
+    <a href="images/Kevin_s_Resume.pdf" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;" target="_blank">Resume</a>
     </div>
   </div>
   </div>
