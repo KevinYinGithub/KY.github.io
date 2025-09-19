@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 <div style="display: flex;">
 
   <!-- Left column: photo + nav -->
