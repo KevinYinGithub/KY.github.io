@@ -1,17 +1,17 @@
----
-title: Home
----
+<!-- Navigation Buttons -->
+<div style="display: flex; gap: 15px; margin-bottom: 30px;">
+  <a href="index.md" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Home</a>
+  <a href="projects.md" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Projects</a>
+  <a href="resume.pdf" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;" target="_blank">Resume</a>
+</div>
 
-# About me:
-
-Hi, I'm Kevin. I am a Computer Science major at Georgia Institute of Technology with a passion for cybersecurity and networking. 
-
-I enjoy solving CTF challenges, exploring, and understanding how secure systems are vulnerable to exploit. I am currently focused on pursuing a career in penetration tester, building hands-on experience in network, and system security. 
-
-## Projects
-- [Project One](projects.md#project-one) – brief description of what it does.
-- [Project Two](projects.md#project-two) – another cool project.
-- [Project Three](projects.md#project-three) – something impressive.
-
-## Contact
-You can reach me on [LinkedIn](https://www.linkedin.com/in/kevin-yin-ky/) or by email at **kevinyin087@gmail.com**.
+<!-- Photo + About Me -->
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/kevin.jpg" alt="Kevin Yin" width="150" style="border-radius: 50%;"/>
+  <div>
+    <h1>Hi, I’m Kevin 👋</h1>
+    <p>
+Hi, I'm Kevin. I am a Computer Science major at Georgia Institute of Technology with a passion for cybersecurity and networking. I enjoy solving CTF challenges, exploring, and understanding how secure systems are vulnerable to exploit. I am currently focused on pursuing a career in penetration tester, building hands-on experience in network, and system security. 
+    </p>
+  </div>
+</div>
