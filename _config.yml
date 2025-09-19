@@ -1,7 +1,5 @@
 title: Kevin Website
 theme: jekyll-theme-midnight
-sass:
-  style: compressed
 
 include:
   - assets/css
