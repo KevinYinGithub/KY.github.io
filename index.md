@@ -7,7 +7,7 @@
 
 <!-- Photo + About Me -->
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/kevin.jpg" alt="Kevin Yin" width="150" style="border-radius: 50%;"/>
+  <img src="images/IMG_2444.jpeg" alt="Kevin Yin" width="150" style="border-radius: 50%;"/>
   <div>
     <h1>Hi, I’m Kevin 👋</h1>
     <p>
