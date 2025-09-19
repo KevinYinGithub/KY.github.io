@@ -2,7 +2,7 @@
 <div style="display: flex; gap: 15px; margin-bottom: 30px;">
   <a href="index.md" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Home</a>
   <a href="projects.md" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Projects</a>
-  <a href="resume.pdf" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;" target="_blank">Resume</a>
+  <a href="images/Kevin_s_resume.pdf" style="padding: 10px 20px; background-color:#444; color:white; text-decoration:none; border-radius:5px;" target="_blank">Resume</a>
 </div>
 
 <!-- Photo + About Me -->
