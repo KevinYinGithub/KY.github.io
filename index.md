@@ -12,4 +12,4 @@ Welcome to my portfolio. Here you’ll find my projects, skills, and a bit about
 - [Project Three](projects.md#project-three) – something impressive.
 
 ## Contact
-You can reach me on [LinkedIn](https://www.linkedin.com/) or by email at **youremail@example.com**.
+You can reach me on [LinkedIn](https://www.linkedin.com/in/kevin-yin-ky/) or by email at **kevinyin087@gmail.com**.
