@@ -1,12 +1,15 @@
 ---
-title: Welcome
+title: Home
 ---
 
-# Hi, I’m Kevin 👋  
+# Hi, I’m Kevin  
 
-This is my portfolio built with the **Midnight Jekyll Theme**.  
+Welcome to my portfolio. Here you’ll find my projects, skills, and a bit about me.  
 
 ## Projects
-- [Project One](#)
-- [Project Two](#)
-- [Project Three](#)
+- [Project One](projects.md#project-one) – brief description of what it does.
+- [Project Two](projects.md#project-two) – another cool project.
+- [Project Three](projects.md#project-three) – something impressive.
+
+## Contact
+You can reach me on [LinkedIn](https://www.linkedin.com/) or by email at **youremail@example.com**.
