@@ -5,12 +5,13 @@
     <!-- Photo -->
     <img src="images/IMG_2444.jpeg" alt="Kevin Yin" width="150" style="border-radius: 50%; margin-bottom: 20px;"/>
 
-    <!-- Nav buttons stacked vertically -->
-    <div style="display: flex; flex-direction: column; gap: 10px;">
+   <!-- Nav buttons stacked vertically -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
       <a href="/" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Home</a>
       <a href="projects.md" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;">Projects</a>
       <a href="images/Kevin_s_Resume.pdf" style="padding: 10px; background-color:#444; color:white; text-decoration:none; border-radius:5px;" target="_blank">Resume</a>
     </div>
+  </div>
   </div>
 
   <!-- Right column: About Me -->
