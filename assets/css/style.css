@@ -1,5 +1,6 @@
 ---
 ---
+/* Sidebar layout for top-left photo + buttons */
 .sidebar-layout {
   display: flex;
   align-items: flex-start;
