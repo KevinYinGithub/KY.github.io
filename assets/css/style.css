@@ -27,9 +27,7 @@ body {
 
 .profile-photo {
   border-radius: 50%;
-  width: 100px;             /* smaller size */
-  height: auto;             /* keeps aspect ratio */
-  margin-bottom: 20px;
+  width: 50px;
 }
 
 .nav-buttons {
@@ -55,6 +53,7 @@ body {
 .main-about {
   max-width: 650px;
 }
+
 
 
 
