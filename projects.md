@@ -9,7 +9,6 @@ title: Projects
 In progress  
 
 
-
 ## Celebi
 A custom-built robot designed to compete in robowrestling tournaments
 <div style="margin-top:15px;">
