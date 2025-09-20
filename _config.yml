@@ -1,6 +1,4 @@
 title: Kevin Website
-remote_theme: pages-themes/midnight@v0.3.0
-plugins:
-  - jekyll-remote-theme
+theme: midnight
 include:
   - assets/css
