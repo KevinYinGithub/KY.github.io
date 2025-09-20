@@ -3,13 +3,27 @@ title: Projects
 layout: default
 ---
 
-# Projects  
+<div class="sidebar-layout">
+  <div class="sidebar">
+    <img src="images/IMG_2444.jpeg" alt="Kevin Yin" class="profile-photo">
+    <div class="nav-buttons">
+      <a href="/">Home</a>
+      <a href="projects.md">Projects</a>
+      <a href="images/Kevin_s_Resume.pdf" target="_blank">Resume</a>
+    </div>
+  </div>
 
-## Project One
-Description of your first project, maybe with screenshots or links.  
+  <div class="main-about">
+    # Projects
 
-## Project Two
-Details about your second project.  
+    ## Project One
+    Description of your first project.
 
-## Project Three
-Another showcase item.
+    ## Project Two
+    Description of your second project.
+
+    ## Project Three
+    Description of your third project.
+  </div>
+</div>
+
