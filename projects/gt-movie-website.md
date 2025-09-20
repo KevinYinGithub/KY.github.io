@@ -1,7 +1,6 @@
 ---
 layout: default
 title: GT Movie Website
-permalink: /projects/gt-movie-website/
 ---
 
 # GT Movie Website
@@ -29,6 +28,7 @@ This project was built as part of my exploration into web development and e-comm
 
 
 <a href="{{ '/projects.html' | relative_url }}" class="project-button">Back to Projects</a>
+
 
 
 
