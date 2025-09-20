@@ -8,6 +8,7 @@ permalink: /projects/gt-movie-website/
 <!-- Project image -->
 <img src="{{ '/images/website.png' | relative_url }}" alt="GT Movie Website Screenshot" style="width:100%; max-width:600px; border-radius:8px; margin-top:15px;">
 
+
 ## Overview and Purpose
 A Django web-based application that allows users to order movies online.  
 This project was built as part of my exploration into web development and e-commerce platforms. Users can browse movies, add them to a cart, and complete purchases. The goal was to learn how to integrate Django models, views, and templates for a full-stack web application.
@@ -29,6 +30,7 @@ This project was built as part of my exploration into web development and e-comm
 
 
 <a href="{{ '/projects.html' | relative_url }}" class="project-button">Back to Projects</a>
+
 
 
 
