@@ -1,7 +1,5 @@
 ---
 ---
-
-@import "{{ site.theme }}";
 .sidebar-layout {
   display: flex;
   align-items: flex-start;
@@ -35,3 +33,4 @@
   border-radius: 5px;
   text-align: center;
 }
+
