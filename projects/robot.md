@@ -1,14 +1,11 @@
 ---
 layout: default
 title: Celebi
+permalink: /projects/robot/
 ---
 
 # Celebi
-<!-- Project demo video -->
-<video controls style="width:100%; max-width:600px; border-radius:8px; margin-top:15px;">
-  <source src="{{ '/images/IMG_2511.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 ## Overview
 Our team built a custom-built robot called Celebi, engineered to complete in robowrestling tournaments. The robot was designed and programmed in C++ to detect opponents, react quickly, and push the opponent out of the small sumo ring. 
