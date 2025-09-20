@@ -4,6 +4,8 @@ title: GT Movie Website
 ---
 
 # GT Movie Website
+<!-- Project image -->
+<img src="{{ '/images/IMG_2511' | relative_url }}" alt="GT Movie Website Screenshot" style="width:100%; max-width:600px; border-radius:8px; margin-top:15px;">
 
 ## Overview and Purpose
 A Django web-based application that allows users to order movies online.  
@@ -23,5 +25,6 @@ This project was built as part of my exploration into web development and e-comm
 - Add payment gateway integration for real transactions.
 - Implement search functionality and advanced filtering.
 - Deploy the application to a cloud server for public access.
+
 
 <a href="{{ '/projects.html' | relative_url }}" class="project-button">Back to Projects</a>
