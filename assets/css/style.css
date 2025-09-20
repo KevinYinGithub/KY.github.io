@@ -1,6 +1,7 @@
-/* assets/css/style.css */
+---
+---
 
-/* Force left-aligned flex layout */
+@import "{{ site.theme }}";
 body {
   display: flex;
   justify-content: flex-start;
@@ -11,3 +12,4 @@ body {
   max-width: none !important;
   width: 100%;
 }
+
