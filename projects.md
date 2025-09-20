@@ -14,7 +14,7 @@ In progress
 ## GT Movie Website
 A Django web-based application that allows users to order movies online.
 <div style="margin-top:15px;">
-  <a href="/projects/gt-movie-website.html" class="project-button">Read More</a>
+  <a href="/_projects/gt-movie-website.html" class="project-button">Read More</a>
 </div>
 
 ## LLM CTF Agent
