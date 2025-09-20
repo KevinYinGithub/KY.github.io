@@ -24,6 +24,5 @@
       I am currently focused on pursuing a career as a penetration tester, building hands-on experience in network and system security.
     </p>
   </div>
-
 </div>
 
