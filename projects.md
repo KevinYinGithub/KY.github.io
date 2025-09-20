@@ -11,7 +11,9 @@ In progress
 
 ## Celebi
 A custom-built robot designed to compete in robowrestling tournaments
-
+<div style="margin-top:15px;">
+  <a href="{{ '/projects/robot/' | relative_url }}">Read More</a>
+</div>
 
 ## GT Movie Website
 A Django web-based application that allows users to order movies online.
