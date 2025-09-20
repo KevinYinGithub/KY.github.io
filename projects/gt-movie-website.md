@@ -9,27 +9,20 @@ permalink: /projects/gt-movie-website/
 <img src="{{ '/images/website.png' | relative_url }}" alt="GT Movie Website Screenshot" style="width:100%; max-width:600px; border-radius:8px; margin-top:15px;">
 
 
-## Overview and Purpose
-A Django web-based application that allows users to order movies online.  
-This project was built as part of my exploration into web development and e-commerce platforms. Users can browse movies, add them to a cart, and complete purchases. The goal was to learn how to integrate Django models, views, and templates for a full-stack web application.
+## Overview
+This web based application was developed using Django. It has a movie list where user could add movies to their shopping cart, a login page, a password authenication, an admin page to allow our developer team to manage movie list and user data, and a shopping cart page to allow the user to buy the movie. I was the team lead, organizing daily meetings between the development team and the client to ensure clear communication and progress tracking. In addition, I contributed as a back-end developer, implementing a secure password authentication system using javascript to protect user data.
 
 ## Technical Details
 - Built with Django framework and Python.
 - Frontend uses HTML, CSS, and basic JavaScript for interactive elements.
-- Integrated with SQLite database for storing movie and user data.
-- Implemented user authentication and cart management.
+- Integrated with SQLite database for storing movie, user data, and password.
+- Implemented password authentication and cart management.
 
-## Usage
-- Users can browse movies by category, view details, add to cart, and checkout.
-- Admins can add or remove movies and manage orders.
-
-## Future Work
-- Add payment gateway integration for real transactions.
-- Implement search functionality and advanced filtering.
-- Deploy the application to a cloud server for public access.
-
+## What I learned
+- This project is what led me to learning many useful languages for cybersecurity, such as html/css, SQL, and javascript.
 
 <a href="{{ '/projects.html' | relative_url }}" class="project-button">Back to Projects</a>
+
 
 
 
