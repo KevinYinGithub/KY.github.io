@@ -15,7 +15,7 @@
 }
 
 .profile-photo {
-  border-radius: 50%;
+  border-radius: 50% / 35%; 
   width: 150px;
   margin-bottom: 20px;
 }
@@ -34,4 +34,5 @@
   border-radius: 5px;
   text-align: center;
 }
+
 
