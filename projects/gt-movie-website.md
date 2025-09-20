@@ -18,10 +18,13 @@ This web based application was developed using Django. It has a movie list where
 - Integrated with SQLite database for storing movie, user data, and password.
 - Implemented password authentication and cart management.
 
-## What I learned
-- This project is what led me to learning many useful languages for cybersecurity, such as html/css, SQL, and javascript.
+## What I Learned
+- This project is what led me to learning many useful languages for cybersecurity, such as HTML, SQL, and Javascript.
+- Gain knowledge in how to use Django framework and how to build secure, full-stack web applications.
+- Improved my leadership skills by coordinating a development team as well as ensuring that the client is involved throughout the process.
 
 <a href="{{ '/projects.html' | relative_url }}" class="project-button">Back to Projects</a>
+
 
 
 
