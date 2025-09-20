@@ -5,13 +5,13 @@ title: Projects
 
 # Projects
 
-## Project One
+## Security Research into Cyber-Criminal
 Description of your first project, maybe with screenshots or links.  
 
-## Project Two
-Details about your second project.  
+## GT Movie Website
+A Django web-based application that allows users to order movies online.
 
-## Project Three
-Another showcase item.
+## LLM CTF Agent
+Currently in progress
 
 
