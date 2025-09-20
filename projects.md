@@ -18,7 +18,7 @@ In progress
 ## GT Movie Website
 A Django web-based application that allows users to order movies online.
 <div style="margin-top:15px;">
-  <a href="/projects/gt-movie-website/" class="project-button">Read More</a>
+  <a href="{{ '/gt-movie-website.html' | relative_url }}" class="project-button">Read More</a>
 </div>
 
 
