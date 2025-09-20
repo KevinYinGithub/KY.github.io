@@ -27,8 +27,9 @@ body {
 }
 
 .profile-photo {
-  border-radius: 50% / 35%; /* oval shape */
-  width: 120px;
+  border-radius: 50% /* makes it oval. Use 50% / 50% for perfect circle */
+  width: 100px;             /* smaller size */
+  height: auto;             /* keeps aspect ratio */
   margin-bottom: 20px;
 }
 
@@ -55,3 +56,4 @@ body {
 .main-about {
   max-width: 650px;
 }
+
