@@ -9,8 +9,10 @@ title: Projects
 Description of your first project, maybe with screenshots or links.  
 
 
+
 ## Celebi
 In progress
+
 
 
 ## GT Movie Website
