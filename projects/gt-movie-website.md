@@ -5,7 +5,6 @@ permalink: /projects/gt-movie-website/
 ---
 
 # GT Movie Website
-<!-- Project image -->
 <img src="{{ '/images/website.png' | relative_url }}" alt="GT Movie Website Screenshot" style="width:100%; max-width:600px; border-radius:8px; margin-top:15px;">
 
 
@@ -24,6 +23,7 @@ This web based application was developed using Django. It has a movie list where
 - Improved my leadership skills by coordinating a development team as well as ensuring that the client is involved throughout the process.
 
 <a href="{{ '/projects.html' | relative_url }}" class="project-button">Back to Projects</a>
+
 
 
 
