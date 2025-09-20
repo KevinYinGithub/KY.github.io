@@ -12,11 +12,11 @@
       <div class="sidebar-layout">
         <!-- Left column: photo + nav -->
         <div class="sidebar">
-          <img src="images/IMG_2444.jpeg" alt="Kevin Yin" class="profile-photo">
+          <img src="{{ '/images/IMG_2444.jpeg' | relative_url }}" alt="Kevin Yin" class="profile-photo">
           <div class="nav-buttons">
             <a href="{{ '/' | relative_url }}">Home</a>
             <a href="{{ '/projects.html' | relative_url }}">Projects</a>
-            <a href="images/Kevin_s_Resume.pdf" target="_blank">Resume</a>
+            <a href="{{ '/images/Kevin_s_Resume.pdf' | relative_url }}" target="_blank">Resume</a>
           </div>
         </div>
 
@@ -28,4 +28,5 @@
 
     </div>
   </body>
+
 </html>
