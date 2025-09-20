@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Celebi
-permalink: /projects/robot/
 ---
 
 # Celebi
