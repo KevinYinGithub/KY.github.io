@@ -1,18 +1,17 @@
 ---
-title: Projects
 layout: default
+title: Projects
 ---
-<div class="main-about">
-    # Projects
 
-    ## Project One
-    Description of your first project.
+# Projects
 
-    ## Project Two
-    Description of your second project.
+## Project One
+Description of your first project, maybe with screenshots or links.  
 
-    ## Project Three
-    Description of your third project.
-  </div>
-</div>
+## Project Two
+Details about your second project.  
+
+## Project Three
+Another showcase item.
+
 
