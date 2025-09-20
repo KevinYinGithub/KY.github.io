@@ -2,4 +2,4 @@ title: Kevin Website
 theme: jekyll-theme-midnight
 
 include:
-  -assets/css
+  - assets/css
