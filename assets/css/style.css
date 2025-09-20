@@ -2,8 +2,8 @@
 ---
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #0d1117; /* dark background */
-  color: #c9d1d9;           /* light text */
+  background-color: #0d1117;  /* dark background */
+  color: #c9d1d9;             /* light text */
   margin: 0;
   padding: 0;
 }
@@ -26,8 +26,10 @@ body {
 }
 
 .profile-photo {
-  border-radius: 50%;
-  width: 50px;
+  border-radius: 50%;   /* perfect circle */
+  width: 120px;         /* small size, adjust if needed */
+  height: auto;         /* keep proportion */
+  margin-bottom: 20px;
 }
 
 .nav-buttons {
@@ -38,7 +40,7 @@ body {
 
 .nav-buttons a {
   padding: 10px 20px;
-  background-color: #161b22; /* slightly lighter than background */
+  background-color: #161b22;
   color: #c9d1d9;
   text-decoration: none;
   border-radius: 5px;
@@ -47,12 +49,14 @@ body {
 }
 
 .nav-buttons a:hover {
-  background-color: #238636; /* subtle hover effect */
+  background-color: #238636;
 }
 
 .main-about {
   max-width: 650px;
 }
+
+
 
 
 
