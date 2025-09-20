@@ -1,3 +1,6 @@
+---
+layout: midnight
+---
 <link rel="stylesheet" href="assets/css/style.css">
 
 <div style="display: flex;">
